@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simalaomprakash
+- 👋 Hi, I’m Om Prakash
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Data Analysis 
 - 💞️ I’m looking to collaborate on Data Analytics Project
