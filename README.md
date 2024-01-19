@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Om Prakash
-- 👀 I’m interested in Data Analytics 
+- 👀 I’m interested in Data Analytics Role
 - 🌱 I’m currently learning Data Analysis 
 - 💞️ I’m looking to collaborate on Data Analytics Project
 - 📫 How to reach me www.linkedin.com/in/simalaomprakash
