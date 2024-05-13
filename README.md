@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/simalaomprakash](https://www.novypro.com/profile_projects/simalaomprakash)
+- 👨‍💻 All of my projects are available at [Link](https://www.novypro.com/profile_projects/simalaomprakash)
+
 
 - 📫 How to reach me **simalaom@gmail.com**
 
